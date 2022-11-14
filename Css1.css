@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #550a81;
+}
+
+#wrapper {
+    background: paleturquoise;
+}
+
+.flex1,
+.flex2 {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    color: #550a81;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 5px;
+    text-decoration: underline;
+}
